@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/sore-throat-tonsillitis---primary.py
+inputModule3:
+  class: File
+  path: python/sore-throat-vincent---primary.py
+inputModule4:
+  class: File
+  path: python/sore-throat-pharyngitis---primary.py
+inputModule5:
+  class: File
+  path: python/sore-throat-angina---primary.py
+inputModule6:
+  class: File
+  path: python/bacterial-sore-throat---primary.py
+inputModule7:
+  class: File
+  path: python/ulcerative-sore-throat---primary.py
+inputModule8:
+  class: File
+  path: python/sore-throat---primary.py
+inputModule9:
+  class: File
+  path: python/throat---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
